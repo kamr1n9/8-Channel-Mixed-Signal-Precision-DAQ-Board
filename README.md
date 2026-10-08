@@ -18,6 +18,6 @@ The board supports:
 - SWD programming/debugging
 - I2C expansion header
 - CAN interface using SN65HVD230 transceiver
-- 
+
 ## System Architecture
 <img width="596" height="689" alt="image" src="https://github.com/user-attachments/assets/67aceefd-2fc7-4d99-855d-3deb5d36e35d" />
