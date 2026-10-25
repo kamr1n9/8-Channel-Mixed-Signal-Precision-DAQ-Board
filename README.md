@@ -20,4 +20,5 @@ The board supports:
 - CAN interface using SN65HVD230 transceiver
 
 ## System Architecture
-<img width="596" height="689" alt="image" src="https://github.com/user-attachments/assets/67aceefd-2fc7-4d99-855d-3deb5d36e35d" />
+<img width="1260" height="621" alt="image" src="https://github.com/user-attachments/assets/fc3e9be1-5f8c-4e63-a9a9-2a2554575745" />
+
